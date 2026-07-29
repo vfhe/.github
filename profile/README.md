@@ -1,4 +1,4 @@
-# VFHE
+# vFHE
 
 Open-source tooling for verifiable computation on encrypted data:
 Zero-Knowledge Proofs, (verifiable) Fully Homomorphic Encryption, and
@@ -10,12 +10,12 @@ related techniques.
 
 | Repository | What it is |
 |---|---|
-| [vfhe](https://github.com/vfhe/vfhe) | The VFHE library |
+| [vfhe](https://github.com/vfhe/vfhe) | The vFHE library |
 
 ## Community
 
 - Questions and discussion: [vfhe.zulipchat.com](https://vfhe.zulipchat.com)
-- Security reports: [SECURITY.md](https://github.com/vfhe/vfhe/blob/main/SECURITY.md); do not open a public issue
+- Security reports: [SECURITY.md](https://github.com/vfhe/vfhe/blob/main/SECURITY.md)
 - Maintainers: <maintainers@vfhe.ai>
 
 Licensed under Apache-2.0; authors in
