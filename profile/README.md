@@ -1,4 +1,4 @@
-# vFHE
+# vfhe
 
 Open-source tooling for verifiable computation on encrypted data:
 Zero-Knowledge Proofs, (verifiable) Fully Homomorphic Encryption, and
@@ -10,7 +10,7 @@ related techniques.
 
 | Repository | What it is |
 |---|---|
-| [vfhe](https://github.com/vfhe/vfhe) | The vFHE library |
+| [vfhe](https://github.com/vfhe/vfhe) | The vfhe library |
 
 ## Community
 
